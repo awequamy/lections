@@ -1,0 +1,5 @@
+{"results":[{"gender":"male","name":{"title":"Monsieur","first":"Nico","last":"Legrand"},"location":{"street":{"number":4456,"name":"Avenue Vauban"},"city":"Benken (Zh)","state":"Neuchâtel","country":"Switzerland","postcode":3446,"coordinates":{"latitude":"-57.7590","longitude":"-28.1443"},"timezone":{"offset":"-3:30","description":"Newfoundland"}},"email":"nico.legrand@example.com","login":{"uuid":"b8572177-ef92-43d1-8ba6-51d14bfd163b","username":"redgoose396","password":"ready","salt":"48MlmZgF","md5":"a1fc08314b8d461365b019270814d913","sha1":"3e08bff2e1da709f69d18fc73ad89884f485c54a","sha256":"e6cf5afde8ed48651055954c126e3484b6432f4dacff12786b95b4f598a0d9e1"},"dob":{"date":"1948-07-02T03:15:20.246Z","age":74},"registered":{"date":"2019-03-25T11:15:58.778Z","age":3},"phone":"078 980 42 72","cell":"075 308 30 52","id":{"name":"AVS","value":"756.5405.7674.76"},"picture":{"large":"https://randomuser.me/api/portraits/men/6.jpg","medium":"https://randomuser.me/api/portraits/med/men/6.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/6.jpg"},"nat":"CH"}],"info":{"seed":"8f8efe9df52f8b0d","results":1,"page":1,"version":"1.4"}}
+
+
+
+    
